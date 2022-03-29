@@ -1,2 +1,2 @@
 # odooConnectionWithJava
-Simple project connecting odoo with JAVA
+Simple project connecting ODOO with JAVA
